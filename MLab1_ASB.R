@@ -28,7 +28,7 @@ Orders$Order.Date <- as.Date(Orders$Order.Date,
 Orders$Order.Date = as.Date(Orders$Order.Date)
 class(Orders$Order.Date)
 Orders$Order.Date
-# 
+# say something here
 # View(DateQ$Quantity)
 # View(DateQ$Order.Date)
 
